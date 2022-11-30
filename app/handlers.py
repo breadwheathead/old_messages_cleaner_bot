@@ -3,7 +3,10 @@ from aiogram.dispatcher import Dispatcher
 
 
 async def start(message: types.Message):
-    await message.answer('Вас приветствует Бот для удаления сообщений пользователей, покинувших этот чат')
+    await message.answer(
+        'Вас приветствует Бот для удаления сообщений пользователей, покинувших этот чат',
+        reply_markup=types.ReplyKeyboardRemove()
+    )
 
 
 async def echo(message: types.Message):
