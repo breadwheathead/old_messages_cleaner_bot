@@ -1,5 +1,6 @@
 # Пример
-[telegram]
-bot_token =
-admin_id =
-group_id =
+[tg_bot]
+api_id =
+api_hash =
+username =
+phone =
