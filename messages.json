@@ -1,7136 +1,958 @@
 [
   {
-    "_": "Message",
+    "id": 283,
+    "sender_id": 1533275740
+  },
+  {
     "id": 282,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-12-02T02:21:30+00:00",
-    "message": "gfdhfg",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "MessageService",
     "id": 281,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-30T08:39:21+00:00",
-    "action": {
-      "_": "MessageActionChatEditPhoto",
-      "photo": {
-        "_": "Photo",
-        "id": 5203998400259932388,
-        "access_hash": 3116945602013329809,
-        "file_reference": [
-          4,
-          96,
-          204,
-          218,
-          173,
-          0,
-          0,
-          1,
-          25,
-          99,
-          137,
-          170,
-          116,
-          124,
-          133,
-          222,
-          41,
-          249,
-          103,
-          194,
-          60,
-          117,
-          50,
-          46,
-          47,
-          120,
-          249,
-          208,
-          150
-        ],
-        "date": "2022-11-30T08:39:20+00:00",
-        "sizes": [
-          {
-            "_": "PhotoSize",
-            "type": "a",
-            "w": 160,
-            "h": 160,
-            "size": 1577
-          },
-          {
-            "_": "PhotoSize",
-            "type": "b",
-            "w": 320,
-            "h": 320,
-            "size": 7345
-          },
-          {
-            "_": "PhotoSize",
-            "type": "c",
-            "w": 640,
-            "h": 640,
-            "size": 47166
-          },
-          {
-            "_": "PhotoStrippedSize",
-            "type": "i",
-            "bytes": [
-              1,
-              40,
-              40,
-              161,
-              69,
-              37,
-              45,
-              110,
-              88,
-              180,
-              82,
-              82,
-              208,
-              2,
-              209,
-              73,
-              69,
-              48,
-              27,
-              69,
-              37,
-              45,
-              72,
-              11,
-              69,
-              37,
-              45,
-              48,
-              22,
-              138,
-              74,
-              40,
-              1,
-              180,
-              81,
-              69,
-              72,
-              133,
-              162,
-              138,
-              41,
-              140,
-              90,
-              40,
-              162,
-              152,
-              31
-            ]
-          }
-        ],
-        "dc_id": 2,
-        "has_stickers": false,
-        "video_sizes": []
-      }
-    },
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "legacy": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "reply_to": null,
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "MessageService",
     "id": 280,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-30T08:39:19+00:00",
-    "action": {
-      "_": "MessageActionChatEditTitle",
-      "title": "Индифферентная группа"
-    },
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "legacy": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "reply_to": null,
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 279,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-28T08:44:55+00:00",
-    "message": "1123",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 278,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-25T06:54:26+00:00",
-    "message": "https://www.youtube.com/watch?v=K8pYFDX53DY",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": 5605337710,
-    "reply_to": null,
-    "media": {
-      "_": "MessageMediaWebPage",
-      "webpage": {
-        "_": "WebPage",
-        "id": 1503448448842428267,
-        "url": "https://www.youtube.com/watch?v=K8pYFDX53DY",
-        "display_url": "youtube.com/watch?v=K8pYFDX53DY",
-        "hash": 0,
-        "type": "video",
-        "site_name": "YouTube",
-        "title": "Шрек навсегда | RYTP",
-        "description": "Спонсировать/To sponsor:https://www.youtube.com/channel/UCAdYUY5DhHzpP2WX7k21uxw/join\nDonat/VK: https://vk.com/zverobox\nSteam: https://steamcommunity.com/profiles/76561198294891151/\n\nMusic:\n00:00 - Enlistment office - Zverobox\n00:54 - LITTLE BIG - TO PARTY\n01:04 - Витас — 7 Элемент\n01:15 - Cheeki Breeki Revolution - Gopnik McBlyat\n01:36 - Here Come The Raindrops - Reed Mathis\n02:26 - КОРОЛЬ СЛАВЯН - Boris против DJ Blyatman\n03:29 - BFG Division - Мик Гордон\n03:44 - End - Zverobox\n\nКастую тегами:\n#RYTP #пупы #zverobox #шрек",
-        "photo": {
-          "_": "Photo",
-          "id": 5905496585536645708,
-          "access_hash": -3325053031838080551,
-          "file_reference": [
-            0,
-            99,
-            137,
-            170,
-            116,
-            85,
-            201,
-            250,
-            96,
-            97,
-            50,
-            106,
-            79,
-            41,
-            234,
-            162,
-            222,
-            196,
-            119,
-            84,
-            78
-          ],
-          "date": "2020-02-07T13:30:23+00:00",
-          "sizes": [
-            {
-              "_": "PhotoStrippedSize",
-              "type": "i",
-              "bytes": [
-                1,
-                23,
-                40,
-                201,
-                219,
-                70,
-                202,
-                148,
-                12,
-                128,
-                105,
-                80,
-                97,
-                133,
-                88,
-                136,
-                209,
-                48,
-                227,
-                112,
-                252,
-                234,
-                195,
-                237,
-                148,
-                109,
-                3,
-                44,
-                58,
-                26,
-                141,
-                186,
-                226,
-                164,
-                136,
-                12,
-                130,
-                191,
-                120,
-                86,
-                50,
-                125,
-                74,
-                91,
-                21,
-                14,
-                73,
-                201,
-                162,
-                173,
-                180,
-                43,
-                36,
-                204,
-                131,
-                142,
-                56,
-                162,
-                180,
-                83,
-                86,
-                11,
-                50,
-                180,
-                77,
-                134,
-                193,
-                233,
-                82,
-                177,
-                195,
-                96,
-                28,
-                81,
-                69,
-                41,
-                108,
-                52,
-                54,
-                78,
-                25,
-                78,
-                115,
-                82,
-                67,
-                146,
-                224,
-                10,
-                40,
-                168,
-                232,
-                29,
-                68,
-                243,
-                49,
-                54,
-                225,
-                235,
-                69,
-                20,
-                81,
-                96,
-                63
-              ]
-            },
-            {
-              "_": "PhotoSize",
-              "type": "m",
-              "w": 320,
-              "h": 180,
-              "size": 11495
-            },
-            {
-              "_": "PhotoSize",
-              "type": "x",
-              "w": 800,
-              "h": 450,
-              "size": 43998
-            },
-            {
-              "_": "PhotoSize",
-              "type": "y",
-              "w": 1280,
-              "h": 720,
-              "size": 74801
-            }
-          ],
-          "dc_id": 4,
-          "has_stickers": false,
-          "video_sizes": []
-        },
-        "embed_url": "https://www.youtube.com/embed/K8pYFDX53DY",
-        "embed_type": "iframe",
-        "embed_width": 1280,
-        "embed_height": 720,
-        "duration": null,
-        "author": null,
-        "document": null,
-        "cached_page": null,
-        "attributes": []
-      }
-    },
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityUrl",
-        "offset": 0,
-        "length": 43
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 277,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-25T06:53:55+00:00",
-    "message": "https://www.youtube.com/watch?v=GlvqncVoN00",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": 5605337710,
-    "reply_to": null,
-    "media": {
-      "_": "MessageMediaWebPage",
-      "webpage": {
-        "_": "WebPage",
-        "id": 1503448449912306634,
-        "url": "https://www.youtube.com/watch?v=GlvqncVoN00",
-        "display_url": "youtube.com/watch?v=GlvqncVoN00",
-        "hash": 0,
-        "type": "video",
-        "site_name": "YouTube",
-        "title": "Первая Волга на ГИДРАВЛИКЕ! РУССКИЙ ЛОУРАЙДЕР. 14 СЕРИЯ.",
-        "description": "Иди на Дром и ищи ГАЗ 24 Волга в Москве\n🚗 https://drom.ru/s/9VC 🚗\nЧтобы узнать шутку от Алёны и спойлер к след.видосу!\n====\nВ шоу Русский Лоурайдер вам покажут весь путь превращения простой волги в то, что на западе носит гордое название «Лоурайдер», разумеется с отечественной изюминкой!\n-----\nРоял Гараж - https://www.instagram.com/royalgaragemoscow/\n___\nМой телеграм канал: https://t.me/hansontom\nТелеграм канал с музыкой: https://t.me/tomhansonmusic\nГруппа в вк: https://vk.com/hansonworks \nКанал Алёны: https://www.youtube.com/c/heymiuhey\nКанал Вовы: https://www.youtube.com/c/VaKiViS\nМы в запрещенном на территории Российской Федерации Инстаграме:\nЯ: https://www.instagram.com/therealtomhanson\nВова: https://www.instagram.com/vakivis\nАлёна: https://www.instagram.com/heymiu\nКанал Артёма: https://www.youtube.com/user/trane1509",
-        "photo": {
-          "_": "Photo",
-          "id": 6051837344060911468,
-          "access_hash": -6873435021292631840,
-          "file_reference": [
-            0,
-            99,
-            137,
-            170,
-            116,
-            120,
-            161,
-            228,
-            190,
-            164,
-            162,
-            218,
-            129,
-            230,
-            146,
-            231,
-            208,
-            5,
-            62,
-            248,
-            185
-          ],
-          "date": "2022-11-24T13:47:15+00:00",
-          "sizes": [
-            {
-              "_": "PhotoStrippedSize",
-              "type": "i",
-              "bytes": [
-                1,
-                23,
-                40,
-                85,
-                103,
-                42,
-                9,
-                104,
-                155,
-                191,
-                94,
-                69,
-                72,
-                128,
-                73,
-                195,
-                249,
-                100,
-                123,
-                30,
-                106,
-                48,
-                81,
-                198,
-                245,
-                80,
-                0,
-                238,
-                120,
-                21,
-                34,
-                194,
-                152,
-                4,
-                149,
-                254,
-                148,
-                148,
-                88,
-                57,
-                161,
-                100,
-                69,
-                9,
-                242,
-                12,
-                127,
-                74,
-                167,
-                17,
-                221,
-                41,
-                81,
-                156,
-                131,
-                212,
-                158,
-                42,
-                196,
-                230,
-                36,
-                140,
-                156,
-                15,
-                151,
-                210,
-                171,
-                44,
-                161,
-                36,
-                203,
-                140,
-                238,
-                227,
-                159,
-                194,
-                157,
-                129,
-                59,
-                151,
-                88,
-                40,
-                236,
-                40,
-                168,
-                150,
-                112,
-                70,
-                14,
-                1,
-                25,
-                235,
-                69,
-                32,
-                185,
-                86,
-                72,
-                29,
-                6,
-                55,
-                124,
-                159,
-                221,
-                168,
-                154,
-                57,
-                240,
-                48,
-                24,
-                15,
-                247,
-                168,
-                162,
-                157,
-                194,
-                195,
-                124,
-                137,
-                143,
-                95,
-                231,
-                74,
-                240,
-                201,
-                183,
-                44,
-                219,
-                168,
-                162,
-                139,
-                129,
-                42,
-                219,
-                179,
-                70,
-                191,
-                56,
-                31,
-                133,
-                20,
-                81,
-                72,
-                44,
-                127
-              ]
-            },
-            {
-              "_": "PhotoSize",
-              "type": "m",
-              "w": 320,
-              "h": 180,
-              "size": 24347
-            },
-            {
-              "_": "PhotoSize",
-              "type": "x",
-              "w": 800,
-              "h": 450,
-              "size": 116950
-            },
-            {
-              "_": "PhotoSize",
-              "type": "y",
-              "w": 1280,
-              "h": 720,
-              "size": 197990
-            }
-          ],
-          "dc_id": 4,
-          "has_stickers": false,
-          "video_sizes": []
-        },
-        "embed_url": "https://www.youtube.com/embed/GlvqncVoN00",
-        "embed_type": "iframe",
-        "embed_width": 1280,
-        "embed_height": 720,
-        "duration": null,
-        "author": null,
-        "document": null,
-        "cached_page": null,
-        "attributes": []
-      }
-    },
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityUrl",
-        "offset": 0,
-        "length": 43
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 276,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-25T06:53:37+00:00",
-    "message": "https://www.youtube.com/watch?v=2LFChj7A0CA",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": 5605337710,
-    "reply_to": null,
-    "media": {
-      "_": "MessageMediaWebPage",
-      "webpage": {
-        "_": "WebPage",
-        "id": 1503448449682560108,
-        "url": "https://www.youtube.com/watch?v=2LFChj7A0CA",
-        "display_url": "youtube.com/watch?v=2LFChj7A0CA",
-        "hash": 0,
-        "type": "video",
-        "site_name": "YouTube",
-        "title": "СМЕШНЫЕ КОШКИ 2022 И ДРУГИЕ ЖИВОТНЫЕ/ 10 МИНУТ СМЕХА/СМЕШНЫЕ ЖИВОТНЫЕ 2022/ЛУЧШИЕ ПРИКОЛЫ С КОТАМИ",
-        "description": "😽НА ПУШИСТОМ КАНАЛЕ HAPPY DAY, ВЫ УВИДИТЕ САМЫЕ СМЕШНЫЕ ЖИВОТНЫЕ ОТ КОТОРЫХ БУДИТЕ РЖАТЬ ЦЕЛЫЙ ЧАС,😹 ПОПРОБУЙТЕ ПРОЙТИ ТЕСТ НА ПСИХИКУ И НЕ ЗАСМЕЯТЬСЯ. ЛУЧШИЕ ПРИКОЛЫ ТОЛЬКО ТУТ!😹\n\n🐯К Вашему вниманию канал : Happy Day\n😽Самые милые и смешные пушистые только у нас!\n😹Залетай к нам в Друзья, нажав на заветную кнопку подписки!\n\nСмотрите последние забавные видео, чтобы сделать ваш день лучше 😍: \n1️⃣  https://youtu.be/Q9Hi-RoX_Kc 🦆 - Смешные видео про кошек, собак и других животных\n2️⃣  https://youtu.be/MHoPuz7Hi2w 😃🐹 - Самая смешная подборка про собак и кошек 2022 \n3️⃣  https://youtu.be/owZB3Pn39eg🐴🦍 - Самые смешные животные 2022\n4️⃣  https://youtu.be/gOI4mLT9RGw 😺😃 - Милые животные видео - попробуйте не засмеяться\n5️⃣  https://youtu.be/Bab3WXrf09A 🤣 - Большие подборки с котами и собаками 2022\n\n🎵Музыка нашего канала🎵\nOuntro: Goblins from Mars- Cold Blooded Love (ft. Krista Marina)\n\n😹Понравился ролик, то не забудь поставить лайк и делитесь этим видео со своими друзьями , именно благодаря тебя, наш канал будет популярным.\n🦊Подборки приколов 2020/2022, Тест на психику и еще много крутого на нашем канале!\n\n🔴Все авторские права принадлежат Их законным владельцам. Если вы являетесь автором Фрагмента из выпуска и его Распространение ущемляет Ваши авторские права пожалуйста, свяжитесь с нами.\n🔴 All Copyrights belongs To their rightful owners. If you are the author Of the fragment video and distribute it Infringes your copyright please contact us.\n#HappyDay#Приколы2022#Животные#КОТЫ2022#СОБАКИ#прикол#животные",
-        "photo": {
-          "_": "Photo",
-          "id": 6049548869521485636,
-          "access_hash": 500704260718302490,
-          "file_reference": [
-            0,
-            99,
-            137,
-            170,
-            116,
-            213,
-            185,
-            217,
-            194,
-            89,
-            236,
-            166,
-            197,
-            106,
-            39,
-            32,
-            28,
-            180,
-            104,
-            137,
-            147
-          ],
-          "date": "2022-11-23T14:05:06+00:00",
-          "sizes": [
-            {
-              "_": "PhotoStrippedSize",
-              "type": "i",
-              "bytes": [
-                1,
-                30,
-                40,
-                130,
-                45,
-                45,
-                100,
-                141,
-                95,
-                205,
-                35,
-                62,
-                212,
-                255,
-                0,
-                236,
-                132,
-                255,
-                0,
-                158,
-                199,
-                242,
-                171,
-                182,
-                228,
-                121,
-                42,
-                185,
-                25,
-                29,
-                169,
-                225,
-                129,
-                250,
-                84,
-                220,
-                102,
-                67,
-                88,
-                34,
-                156,
-                25,
-                72,
-                111,
-                66,
-                40,
-                251,
-                0,
-                45,
-                143,
-                48,
-                241,
-                215,
-                138,
-                177,
-                62,
-                26,
-                86,
-                39,
-                173,
-                44,
-                142,
-                19,
-                234,
-                69,
-                43,
-                177,
-                216,
-                168,
-                246,
-                74,
-                191,
-                198,
-                127,
-                42,
-                42,
-                102,
-                125,
-                217,
-                56,
-                39,
-                3,
-                56,
-                20,
-                83,
-                184,
-                139,
-                41,
-                17,
-                85,
-                206,
-                230,
-                207,
-                166,
-                115,
-                82,
-                224,
-                237,
-                0,
-                247,
-                235,
-                89,
-                2,
-                254,
-                224,
-                127,
-                16,
-                252,
-                169,
-                78,
-                163,
-                112,
-                122,
-                176,
-                252,
-                169,
-                114,
-                133,
-                203,
-                211,
-                170,
-                34,
-                241,
-                157,
-                221,
-                177,
-                78,
-                140,
-                3,
-                31,
-                25,
-                32,
-                250,
-                214,
-                111,
-                219,
-                102,
-                207,
-                85,
-                252,
-                168,
-                251,
-                108,
-                223,
-                222,
-                31,
-                149,
-                59,
-                5,
-                205,
-                34,
-                0,
-                233,
-                69,
-                102,
-                125,
-                182,
-                111,
-                239,
-                15,
-                202,
-                138,
-                118,
-                11,
-                159
-              ]
-            },
-            {
-              "_": "PhotoSize",
-              "type": "m",
-              "w": 320,
-              "h": 240,
-              "size": 15486
-            },
-            {
-              "_": "PhotoSize",
-              "type": "x",
-              "w": 480,
-              "h": 360,
-              "size": 19581
-            }
-          ],
-          "dc_id": 4,
-          "has_stickers": false,
-          "video_sizes": []
-        },
-        "embed_url": "https://www.youtube.com/embed/2LFChj7A0CA",
-        "embed_type": "iframe",
-        "embed_width": 480,
-        "embed_height": 360,
-        "duration": null,
-        "author": null,
-        "document": null,
-        "cached_page": null,
-        "attributes": []
-      }
-    },
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityUrl",
-        "offset": 0,
-        "length": 43
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 275,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-25T06:25:04+00:00",
-    "message": "/cancel@purple_indifferent_bot",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 0,
-        "length": 30
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 274,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-25T06:24:55+00:00",
-    "message": "/admin",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 0,
-        "length": 6
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 272,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-25T06:11:27+00:00",
-    "message": "/меню",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 268,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T22:50:53+00:00",
-    "message": "Хуй",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 267,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T22:50:42+00:00",
-    "message": "/admin",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 0,
-        "length": 6
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 266,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T22:50:31+00:00",
-    "message": "Отмена",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 265,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T17:59:34+00:00",
-    "message": "/меню",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 257,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T17:11:06+00:00",
-    "message": "OK",
-    "out": false,
-    "mentioned": true,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": {
-      "_": "MessageReplyHeader",
-      "reply_to_msg_id": 256,
-      "reply_to_scheduled": false,
-      "forum_topic": false,
-      "reply_to_peer_id": null,
-      "reply_to_top_id": null
-    },
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": null,
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 256,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T17:11:06+00:00",
-    "message": "отмена",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 1,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": 257,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 255,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T17:10:52+00:00",
-    "message": "Загрузить фото",
-    "out": false,
-    "mentioned": true,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": {
-      "_": "MessageReplyHeader",
-      "reply_to_msg_id": 254,
-      "reply_to_scheduled": false,
-      "forum_topic": false,
-      "reply_to_peer_id": null,
-      "reply_to_top_id": null
-    },
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": null,
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 254,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T17:10:52+00:00",
-    "message": "/загрузить",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 1,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": 255,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 253,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T17:10:49+00:00",
-    "message": "А вы знаете, как они называют пыво?",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 251,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T17:10:14+00:00",
-    "message": "не мусари",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 250,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T17:10:13+00:00",
-    "message": "/open",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 0,
-        "length": 5
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 249,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T17:10:03+00:00",
-    "message": "/cancel@purple_indifferent_bot",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 0,
-        "length": 30
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 248,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T17:09:58+00:00",
-    "message": "/add@purple_indifferent_bot",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 0,
-        "length": 27
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 247,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T17:09:53+00:00",
-    "message": "/links@purple_indifferent_bot",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 0,
-        "length": 29
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 246,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T17:09:51+00:00",
-    "message": "/links@purple_indifferent_bot",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 0,
-        "length": 29
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 244,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T17:09:26+00:00",
-    "message": "OK",
-    "out": false,
-    "mentioned": true,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": {
-      "_": "MessageReplyHeader",
-      "reply_to_msg_id": 243,
-      "reply_to_scheduled": false,
-      "forum_topic": false,
-      "reply_to_peer_id": null,
-      "reply_to_top_id": null
-    },
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": null,
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 243,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T17:09:25+00:00",
-    "message": "/cancel@purple_indifferent_bot",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 0,
-        "length": 30
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 1,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": 244,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 242,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T17:09:09+00:00",
-    "message": "Загрузить фото",
-    "out": false,
-    "mentioned": true,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": {
-      "_": "MessageReplyHeader",
-      "reply_to_msg_id": 241,
-      "reply_to_scheduled": false,
-      "forum_topic": false,
-      "reply_to_peer_id": null,
-      "reply_to_top_id": null
-    },
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": null,
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 241,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T17:09:09+00:00",
-    "message": "/загрузить",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 1,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": 242,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 239,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T14:30:36+00:00",
-    "message": "Мы тутебать натестим",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 238,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T14:30:27+00:00",
-    "message": "Маты запрещены",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": {
-      "_": "MessageReplyHeader",
-      "reply_to_msg_id": 237,
-      "reply_to_scheduled": false,
-      "forum_topic": false,
-      "reply_to_peer_id": null,
-      "reply_to_top_id": null
-    },
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": null,
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 236,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T14:30:18+00:00",
-    "message": "Ахахах)",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 235,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T14:29:47+00:00",
-    "message": "Хоть пачанов зови)",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 234,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T14:29:33+00:00",
-    "message": "Весело тут))",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 233,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T14:28:32+00:00",
-    "message": "Егор немытый чорт",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": "2022-11-24T14:28:41+00:00",
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 232,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T14:28:07+00:00",
-    "message": "Летехахуйсобаки",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 231,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T14:27:51+00:00",
-    "message": "Далее...",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 230,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T14:27:51+00:00",
-    "message": "Ахахаха",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 229,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T14:27:46+00:00",
-    "message": "Далее...",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 228,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T14:27:46+00:00",
-    "message": "Восемьпидоров",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 227,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T14:27:24+00:00",
-    "message": "Маты запрещены",
-    "out": false,
-    "mentioned": true,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": {
-      "_": "MessageReplyHeader",
-      "reply_to_msg_id": 226,
-      "reply_to_scheduled": false,
-      "forum_topic": false,
-      "reply_to_peer_id": null,
-      "reply_to_top_id": null
-    },
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": null,
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 225,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T14:26:54+00:00",
-    "message": "Маты запрещены",
-    "out": false,
-    "mentioned": true,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": {
-      "_": "MessageReplyHeader",
-      "reply_to_msg_id": 224,
-      "reply_to_scheduled": false,
-      "forum_topic": false,
-      "reply_to_peer_id": null,
-      "reply_to_top_id": null
-    },
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": null,
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 223,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T14:26:29+00:00",
-    "message": "Далее...",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 222,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T14:26:29+00:00",
-    "message": "Ахах)",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 221,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T14:26:21+00:00",
-    "message": "Далее...",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 220,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T14:26:21+00:00",
-    "message": "Чморина",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 219,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T14:26:07+00:00",
-    "message": "Маты запрещены",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": {
-      "_": "MessageReplyHeader",
-      "reply_to_msg_id": 218,
-      "reply_to_scheduled": false,
-      "forum_topic": false,
-      "reply_to_peer_id": null,
-      "reply_to_top_id": null
-    },
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": null,
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 217,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T14:25:58+00:00",
-    "message": "Маты запрещены",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": {
-      "_": "MessageReplyHeader",
-      "reply_to_msg_id": 216,
-      "reply_to_scheduled": false,
-      "forum_topic": false,
-      "reply_to_peer_id": null,
-      "reply_to_top_id": null
-    },
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": null,
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 215,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T14:16:41+00:00",
-    "message": "hi",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 214,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T13:33:51+00:00",
-    "message": "Далее...",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 213,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T13:33:51+00:00",
-    "message": "дай поиграть",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 212,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T13:33:46+00:00",
-    "message": "Маты запрещены",
-    "out": false,
-    "mentioned": true,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": {
-      "_": "MessageReplyHeader",
-      "reply_to_msg_id": 211,
-      "reply_to_scheduled": false,
-      "forum_topic": false,
-      "reply_to_peer_id": null,
-      "reply_to_top_id": null
-    },
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": null,
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 210,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T13:33:42+00:00",
-    "message": "Далее...",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 209,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T13:33:42+00:00",
-    "message": "ламповая голова",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 208,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T13:33:35+00:00",
-    "message": "Маты запрещены",
-    "out": false,
-    "mentioned": true,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": {
-      "_": "MessageReplyHeader",
-      "reply_to_msg_id": 207,
-      "reply_to_scheduled": false,
-      "forum_topic": false,
-      "reply_to_peer_id": null,
-      "reply_to_top_id": null
-    },
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": null,
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 206,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T13:33:24+00:00",
-    "message": "Маты запрещены",
-    "out": false,
-    "mentioned": true,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": {
-      "_": "MessageReplyHeader",
-      "reply_to_msg_id": 205,
-      "reply_to_scheduled": false,
-      "forum_topic": false,
-      "reply_to_peer_id": null,
-      "reply_to_top_id": null
-    },
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": null,
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 204,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T13:33:16+00:00",
-    "message": "Маты запрещены",
-    "out": false,
-    "mentioned": true,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": {
-      "_": "MessageReplyHeader",
-      "reply_to_msg_id": 203,
-      "reply_to_scheduled": false,
-      "forum_topic": false,
-      "reply_to_peer_id": null,
-      "reply_to_top_id": null
-    },
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": null,
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 202,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T13:33:05+00:00",
-    "message": "Маты запрещены",
-    "out": false,
-    "mentioned": true,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": {
-      "_": "MessageReplyHeader",
-      "reply_to_msg_id": 201,
-      "reply_to_scheduled": false,
-      "forum_topic": false,
-      "reply_to_peer_id": null,
-      "reply_to_top_id": null
-    },
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": null,
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 200,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-24T10:41:55+00:00",
-    "message": "/start",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 0,
-        "length": 6
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 198,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-22T10:09:42+00:00",
-    "message": "Ваш текст:\n\nхорошо",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityUnderline",
-        "offset": 0,
-        "length": 9
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 197,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-22T10:09:42+00:00",
-    "message": "хорошо",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 196,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-22T10:09:42+00:00",
-    "message": "хорошо",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 195,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-22T10:09:42+00:00",
-    "message": "хорошо",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityBold",
-        "offset": 0,
-        "length": 6
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 194,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-22T10:09:42+00:00",
-    "message": "хорошо",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 193,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-22T10:09:22+00:00",
-    "message": "",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": {
-      "_": "MessageMediaDocument",
-      "nopremium": false,
-      "document": {
-        "_": "Document",
-        "id": 5469970631929896730,
-        "access_hash": -4159859473156551257,
-        "file_reference": [
-          2,
-          96,
-          204,
-          218,
-          173,
-          0,
-          0,
-          0,
-          193,
-          99,
-          137,
-          170,
-          116,
-          24,
-          27,
-          178,
-          175,
-          159,
-          90,
-          71,
-          118,
-          108,
-          14,
-          168,
-          248,
-          245,
-          111,
-          128,
-          178
-        ],
-        "date": "2022-11-22T10:09:22+00:00",
-        "mime_type": "video/mp4",
-        "size": 12882,
-        "dc_id": 2,
-        "attributes": [
-          {
-            "_": "DocumentAttributeVideo",
-            "duration": 1,
-            "w": 320,
-            "h": 266,
-            "round_message": false,
-            "supports_streaming": true
-          },
-          {
-            "_": "DocumentAttributeFilename",
-            "file_name": "up4kman.gif.mp4"
-          },
-          {
-            "_": "DocumentAttributeAnimated"
-          }
-        ],
-        "thumbs": [
-          {
-            "_": "PhotoStrippedSize",
-            "type": "i",
-            "bytes": [
-              1,
-              33,
-              40,
-              189,
-              51,
-              170,
-              200,
-              217,
-              121,
-              70,
-              49,
-              157,
-              167,
-              129,
-              77,
-              243,
-              16,
-              245,
-              146,
-              117,
-              192,
-              207,
-              53,
-              118,
-              140,
-              80,
-              5,
-              71,
-              145,
-              50,
-              14,
-              249,
-              121,
-              92,
-              252,
-              167,
-              219,
-              255,
-              0,
-              173,
-              77,
-              243,
-              81,
-              149,
-              70,
-              249,
-              198,
-              120,
-              7,
-              214,
-              159,
-              41,
-              127,
-              180,
-              170,
-              238,
-              33,
-              73,
-              232,
-              1,
-              224,
-              113,
-              233,
-              239,
-              235,
-              86,
-              177,
-              64,
-              21,
-              98,
-              101,
-              102,
-              82,
-              178,
-              74,
-              192,
-              250,
-              158,
-              61,
-              40,
-              171,
-              84,
-              80,
-              1,
-              69,
-              67,
-              35,
-              72,
-              28,
-              225,
-              136,
-              25,
-              224,
-              4,
-              205,
-              52,
-              180,
-              160,
-              15,
-              153,
-              143,
-              209,
-              40,
-              1,
-              100,
-              77,
-              243,
-              62,
-              62,
-              246,
-              213,
-              193,
-              7,
-              4,
-              114,
-              106,
-              122,
-              175,
-              153,
-              7,
-              59,
-              155,
-              39,
-              254,
-              153,
-              210,
-              177,
-              151,
-              39,
-              14,
-              216,
-              237,
-              242,
-              80,
-              4,
-              244,
-              84,
-              40,
-              206,
-              88,
-              2,
-              91,
-              223,
-              41,
-              138,
-              40,
-              2,
-              106,
-              40,
-              162,
-              128,
-              10,
-              40,
-              162,
-              128,
-              10,
-              40,
-              162,
-              128,
-              63
-            ]
-          },
-          {
-            "_": "PhotoSize",
-            "type": "m",
-            "w": 320,
-            "h": 266,
-            "size": 17543
-          }
-        ],
-        "video_thumbs": []
-      },
-      "ttl_seconds": null
-    },
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 192,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-22T10:09:22+00:00",
-    "message": "",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": {
-      "_": "MessageMediaDocument",
-      "nopremium": false,
-      "document": {
-        "_": "Document",
-        "id": 5469970631929896730,
-        "access_hash": -4159859473156551257,
-        "file_reference": [
-          4,
-          96,
-          204,
-          218,
-          173,
-          0,
-          0,
-          0,
-          192,
-          99,
-          137,
-          170,
-          116,
-          1,
-          149,
-          144,
-          116,
-          32,
-          36,
-          41,
-          60,
-          36,
-          84,
-          63,
-          194,
-          67,
-          9,
-          227,
-          183
-        ],
-        "date": "2022-11-22T10:09:22+00:00",
-        "mime_type": "video/mp4",
-        "size": 12882,
-        "dc_id": 2,
-        "attributes": [
-          {
-            "_": "DocumentAttributeVideo",
-            "duration": 1,
-            "w": 320,
-            "h": 266,
-            "round_message": false,
-            "supports_streaming": true
-          },
-          {
-            "_": "DocumentAttributeFilename",
-            "file_name": "up4kman.gif.mp4"
-          },
-          {
-            "_": "DocumentAttributeAnimated"
-          }
-        ],
-        "thumbs": [
-          {
-            "_": "PhotoStrippedSize",
-            "type": "i",
-            "bytes": [
-              1,
-              33,
-              40,
-              189,
-              51,
-              170,
-              200,
-              217,
-              121,
-              70,
-              49,
-              157,
-              167,
-              129,
-              77,
-              243,
-              16,
-              245,
-              146,
-              117,
-              192,
-              207,
-              53,
-              118,
-              140,
-              80,
-              5,
-              71,
-              145,
-              50,
-              14,
-              249,
-              121,
-              92,
-              252,
-              167,
-              219,
-              255,
-              0,
-              173,
-              77,
-              243,
-              81,
-              149,
-              70,
-              249,
-              198,
-              120,
-              7,
-              214,
-              159,
-              41,
-              127,
-              180,
-              170,
-              238,
-              33,
-              73,
-              232,
-              1,
-              224,
-              113,
-              233,
-              239,
-              235,
-              86,
-              177,
-              64,
-              21,
-              98,
-              101,
-              102,
-              82,
-              178,
-              74,
-              192,
-              250,
-              158,
-              61,
-              40,
-              171,
-              84,
-              80,
-              1,
-              69,
-              67,
-              35,
-              72,
-              28,
-              225,
-              136,
-              25,
-              224,
-              4,
-              205,
-              52,
-              180,
-              160,
-              15,
-              153,
-              143,
-              209,
-              40,
-              1,
-              100,
-              77,
-              243,
-              62,
-              62,
-              246,
-              213,
-              193,
-              7,
-              4,
-              114,
-              106,
-              122,
-              175,
-              153,
-              7,
-              59,
-              155,
-              39,
-              254,
-              153,
-              210,
-              177,
-              151,
-              39,
-              14,
-              216,
-              237,
-              242,
-              80,
-              4,
-              244,
-              84,
-              40,
-              206,
-              88,
-              2,
-              91,
-              223,
-              41,
-              138,
-              40,
-              2,
-              106,
-              40,
-              162,
-              128,
-              10,
-              40,
-              162,
-              128,
-              10,
-              40,
-              162,
-              128,
-              63
-            ]
-          },
-          {
-            "_": "PhotoSize",
-            "type": "m",
-            "w": 320,
-            "h": 266,
-            "size": 17543
-          }
-        ],
-        "video_thumbs": []
-      },
-      "ttl_seconds": null
-    },
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 191,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-22T10:08:00+00:00",
-    "message": "",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": {
-      "_": "MessageMediaDocument",
-      "nopremium": false,
-      "document": {
-        "_": "Document",
-        "id": 5469970631929896727,
-        "access_hash": 180876171440485900,
-        "file_reference": [
-          2,
-          96,
-          204,
-          218,
-          173,
-          0,
-          0,
-          0,
-          191,
-          99,
-          137,
-          170,
-          116,
-          86,
-          107,
-          187,
-          195,
-          224,
-          119,
-          138,
-          148,
-          147,
-          166,
-          167,
-          66,
-          217,
-          118,
-          98,
-          242
-        ],
-        "date": "2022-11-22T10:08:00+00:00",
-        "mime_type": "video/mp4",
-        "size": 33416,
-        "dc_id": 2,
-        "attributes": [
-          {
-            "_": "DocumentAttributeVideo",
-            "duration": 4,
-            "w": 150,
-            "h": 112,
-            "round_message": false,
-            "supports_streaming": true
-          },
-          {
-            "_": "DocumentAttributeFilename",
-            "file_name": "1745410.gif.mp4"
-          },
-          {
-            "_": "DocumentAttributeAnimated"
-          }
-        ],
-        "thumbs": [
-          {
-            "_": "PhotoStrippedSize",
-            "type": "i",
-            "bytes": [
-              1,
-              30,
-              40,
-              142,
-              70,
-              8,
-              193,
-              106,
-              68,
-              28,
-              103,
-              181,
-              69,
-              10,
-              137,
-              24,
-              202,
-              255,
-              0,
-              128,
-              169,
-              218,
-              68,
-              85,
-              57,
-              97,
-              138,
-              145,
-              149,
-              90,
-              228,
-              6,
-              225,
-              50,
-              61,
-              115,
-              83,
-              128,
-              172,
-              187,
-              129,
-              224,
-              213,
-              124,
-              41,
-              92,
-              231,
-              140,
-              82,
-              194,
-              89,
-              192,
-              69,
-              56,
-              64,
-              57,
-              160,
-              118,
-              30,
-              236,
-              163,
-              140,
-              228,
-              250,
-              10,
-              41,
-              229,
-              66,
-              161,
-              10,
-              48,
-              113,
-              69,
-              2,
-              32,
-              146,
-              221,
-              151,
-              6,
-              62,
-              71,
-              189,
-              65,
-              184,
-              244,
-              171,
-              178,
-              55,
-              238,
-              154,
-              169,
-              31,
-              90,
-              10,
-              66,
-              166,
-              88,
-              170,
-              10,
-              186,
-              136,
-              177,
-              174,
-              209,
-              249,
-              212,
-              54,
-              232,
-              2,
-              239,
-              238,
-              122,
-              84,
-              217,
-              160,
-              76,
-              71,
-              112,
-              160,
-              146,
-              120,
-              162,
-              161,
-              118,
-              249,
-              143,
-              165,
-              20,
-              8
-            ]
-          },
-          {
-            "_": "PhotoSize",
-            "type": "m",
-            "w": 150,
-            "h": 112,
-            "size": 3254
-          }
-        ],
-        "video_thumbs": []
-      },
-      "ttl_seconds": null
-    },
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 190,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-22T10:08:00+00:00",
-    "message": "",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": {
-      "_": "MessageMediaDocument",
-      "nopremium": false,
-      "document": {
-        "_": "Document",
-        "id": 5469970631929896727,
-        "access_hash": 180876171440485900,
-        "file_reference": [
-          4,
-          96,
-          204,
-          218,
-          173,
-          0,
-          0,
-          0,
-          190,
-          99,
-          137,
-          170,
-          116,
-          142,
-          124,
-          254,
-          128,
-          79,
-          121,
-          64,
-          103,
-          211,
-          240,
-          97,
-          206,
-          240,
-          86,
-          46,
-          139
-        ],
-        "date": "2022-11-22T10:08:00+00:00",
-        "mime_type": "video/mp4",
-        "size": 33416,
-        "dc_id": 2,
-        "attributes": [
-          {
-            "_": "DocumentAttributeVideo",
-            "duration": 4,
-            "w": 150,
-            "h": 112,
-            "round_message": false,
-            "supports_streaming": true
-          },
-          {
-            "_": "DocumentAttributeFilename",
-            "file_name": "1745410.gif.mp4"
-          },
-          {
-            "_": "DocumentAttributeAnimated"
-          }
-        ],
-        "thumbs": [
-          {
-            "_": "PhotoStrippedSize",
-            "type": "i",
-            "bytes": [
-              1,
-              30,
-              40,
-              142,
-              70,
-              8,
-              193,
-              106,
-              68,
-              28,
-              103,
-              181,
-              69,
-              10,
-              137,
-              24,
-              202,
-              255,
-              0,
-              128,
-              169,
-              218,
-              68,
-              85,
-              57,
-              97,
-              138,
-              145,
-              149,
-              90,
-              228,
-              6,
-              225,
-              50,
-              61,
-              115,
-              83,
-              128,
-              172,
-              187,
-              129,
-              224,
-              213,
-              124,
-              41,
-              92,
-              231,
-              140,
-              82,
-              194,
-              89,
-              192,
-              69,
-              56,
-              64,
-              57,
-              160,
-              118,
-              30,
-              236,
-              163,
-              140,
-              228,
-              250,
-              10,
-              41,
-              229,
-              66,
-              161,
-              10,
-              48,
-              113,
-              69,
-              2,
-              32,
-              146,
-              221,
-              151,
-              6,
-              62,
-              71,
-              189,
-              65,
-              184,
-              244,
-              171,
-              178,
-              55,
-              238,
-              154,
-              169,
-              31,
-              90,
-              10,
-              66,
-              166,
-              88,
-              170,
-              10,
-              186,
-              136,
-              177,
-              174,
-              209,
-              249,
-              212,
-              54,
-              232,
-              2,
-              239,
-              238,
-              122,
-              84,
-              217,
-              160,
-              76,
-              71,
-              112,
-              160,
-              146,
-              120,
-              162,
-              161,
-              118,
-              249,
-              143,
-              165,
-              20,
-              8
-            ]
-          },
-          {
-            "_": "PhotoSize",
-            "type": "m",
-            "w": 150,
-            "h": 112,
-            "size": 3254
-          }
-        ],
-        "video_thumbs": []
-      },
-      "ttl_seconds": null
-    },
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 189,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-22T10:07:46+00:00",
-    "message": "",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": {
-      "_": "MessageMediaDocument",
-      "nopremium": false,
-      "document": {
-        "_": "Document",
-        "id": 5469970631929896726,
-        "access_hash": 7337534735056216792,
-        "file_reference": [
-          2,
-          96,
-          204,
-          218,
-          173,
-          0,
-          0,
-          0,
-          189,
-          99,
-          137,
-          170,
-          116,
-          162,
-          231,
-          7,
-          166,
-          238,
-          169,
-          30,
-          4,
-          225,
-          145,
-          127,
-          196,
-          161,
-          15,
-          226,
-          50
-        ],
-        "date": "2022-11-22T10:07:46+00:00",
-        "mime_type": "video/mp4",
-        "size": 135550,
-        "dc_id": 2,
-        "attributes": [
-          {
-            "_": "DocumentAttributeVideo",
-            "duration": 6,
-            "w": 320,
-            "h": 242,
-            "round_message": false,
-            "supports_streaming": true
-          },
-          {
-            "_": "DocumentAttributeFilename",
-            "file_name": "Shmatko.gif.mp4"
-          },
-          {
-            "_": "DocumentAttributeAnimated"
-          }
-        ],
-        "thumbs": [
-          {
-            "_": "PhotoStrippedSize",
-            "type": "i",
-            "bytes": [
-              1,
-              30,
-              40,
-              175,
-              33,
-              196,
-              108,
-              125,
-              168,
-              137,
-              198,
-              192,
-              48,
-              50,
-              122,
-              154,
-              73,
-              89,
-              66,
-              144,
-              196,
-              125,
-              41,
-              128,
-              140,
-              117,
-              63,
-              133,
-              65,
-              104,
-              154,
-              76,
-              109,
-              24,
-              234,
-              42,
-              29,
-              216,
-              207,
-              90,
-              126,
-              71,
-              247,
-              186,
-              138,
-              111,
-              90,
-              1,
-              137,
-              187,
-              216,
-              209,
-              65,
-              226,
-              138,
-              4,
-              66,
-              196,
-              210,
-              163,
-              118,
-              61,
-              61,
-              105,
-              170,
-              121,
-              233,
-              154,
-              114,
-              46,
-              91,
-              29,
-              51,
-              76,
-              7,
-              185,
-              5,
-              112,
-              6,
-              115,
-              222,
-              163,
-              4,
-              142,
-              15,
-              4,
-              85,
-              189,
-              128,
-              38,
-              0,
-              227,
-              21,
-              68,
-              158,
-              166,
-              132,
-              12,
-              152,
-              54,
-              122,
-              154,
-              41,
-              145,
-              158,
-              104,
-              160,
-              15
-            ]
-          },
-          {
-            "_": "PhotoSize",
-            "type": "m",
-            "w": 320,
-            "h": 242,
-            "size": 12009
-          }
-        ],
-        "video_thumbs": []
-      },
-      "ttl_seconds": null
-    },
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 188,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-22T10:07:46+00:00",
-    "message": "",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": {
-      "_": "MessageMediaDocument",
-      "nopremium": false,
-      "document": {
-        "_": "Document",
-        "id": 5469970631929896726,
-        "access_hash": 7337534735056216792,
-        "file_reference": [
-          4,
-          96,
-          204,
-          218,
-          173,
-          0,
-          0,
-          0,
-          188,
-          99,
-          137,
-          170,
-          116,
-          26,
-          162,
-          4,
-          57,
-          176,
-          64,
-          153,
-          86,
-          255,
-          89,
-          124,
-          202,
-          176,
-          138,
-          1,
-          132
-        ],
-        "date": "2022-11-22T10:07:46+00:00",
-        "mime_type": "video/mp4",
-        "size": 135550,
-        "dc_id": 2,
-        "attributes": [
-          {
-            "_": "DocumentAttributeVideo",
-            "duration": 6,
-            "w": 320,
-            "h": 242,
-            "round_message": false,
-            "supports_streaming": true
-          },
-          {
-            "_": "DocumentAttributeFilename",
-            "file_name": "Shmatko.gif.mp4"
-          },
-          {
-            "_": "DocumentAttributeAnimated"
-          }
-        ],
-        "thumbs": [
-          {
-            "_": "PhotoStrippedSize",
-            "type": "i",
-            "bytes": [
-              1,
-              30,
-              40,
-              175,
-              33,
-              196,
-              108,
-              125,
-              168,
-              137,
-              198,
-              192,
-              48,
-              50,
-              122,
-              154,
-              73,
-              89,
-              66,
-              144,
-              196,
-              125,
-              41,
-              128,
-              140,
-              117,
-              63,
-              133,
-              65,
-              104,
-              154,
-              76,
-              109,
-              24,
-              234,
-              42,
-              29,
-              216,
-              207,
-              90,
-              126,
-              71,
-              247,
-              186,
-              138,
-              111,
-              90,
-              1,
-              137,
-              187,
-              216,
-              209,
-              65,
-              226,
-              138,
-              4,
-              66,
-              196,
-              210,
-              163,
-              118,
-              61,
-              61,
-              105,
-              170,
-              121,
-              233,
-              154,
-              114,
-              46,
-              91,
-              29,
-              51,
-              76,
-              7,
-              185,
-              5,
-              112,
-              6,
-              115,
-              222,
-              163,
-              4,
-              142,
-              15,
-              4,
-              85,
-              189,
-              128,
-              38,
-              0,
-              227,
-              21,
-              68,
-              158,
-              166,
-              132,
-              12,
-              152,
-              54,
-              122,
-              154,
-              41,
-              145,
-              158,
-              104,
-              160,
-              15
-            ]
-          },
-          {
-            "_": "PhotoSize",
-            "type": "m",
-            "w": 320,
-            "h": 242,
-            "size": 12009
-          }
-        ],
-        "video_thumbs": []
-      },
-      "ttl_seconds": null
-    },
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 187,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T14:28:36+00:00",
-    "message": "Удаляй нахуй!!",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 186,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T14:26:35+00:00",
-    "message": "Удаляй нахуй!!",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 185,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T14:07:25+00:00",
-    "message": "Hello!",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 184,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T14:07:25+00:00",
-    "message": "Hello!",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 183,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T14:07:25+00:00",
-    "message": "Hello!",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 182,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T08:24:46+00:00",
-    "message": "Не работает, удаляй нахуй",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 181,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T08:24:23+00:00",
-    "message": "/start",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 0,
-        "length": 6
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 180,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T08:24:12+00:00",
-    "message": "/hi4",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 0,
-        "length": 4
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 179,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T05:03:42+00:00",
-    "message": "Убираем шаблоны сообщений",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": {
-      "_": "ReplyKeyboardHide",
-      "selective": false
-    },
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 178,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T05:03:42+00:00",
-    "message": "/rm",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 0,
-        "length": 3
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 177,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T05:03:28+00:00",
-    "message": "/hi6",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 0,
-        "length": 4
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 176,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T05:03:14+00:00",
-    "message": "Это урок по клавиатурам.\nДоступные команды:\n\n/start - приветствие\n\nШаблоны клавиатур:\n/hi1 - авто размер\n/hi2 - скрыть после нажатия\n/hi3 - больше кнопок\n/hi4 - кнопки в ряд\n/hi5 - больше рядов\n/hi6 - запрос локации и номера телефона\n/hi7 - все методы/rm - убрать шаблоны\n\nИнлайн клавиатуры:\n/1 - первая кнопка\n/2 - сразу много кнопок",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 45,
-        "length": 6
-      },
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 86,
-        "length": 4
-      },
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 105,
-        "length": 4
-      },
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 133,
-        "length": 4
-      },
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 154,
-        "length": 4
-      },
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 174,
-        "length": 4
-      },
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 194,
-        "length": 4
-      },
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 234,
-        "length": 4
-      },
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 292,
-        "length": 2
-      },
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 311,
-        "length": 2
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 175,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T05:03:13+00:00",
-    "message": "/help",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 0,
-        "length": 5
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 174,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T04:59:00+00:00",
-    "message": "@purple_indifferent_bot wasd",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityMention",
-        "offset": 0,
-        "length": 23
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 173,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T04:58:59+00:00",
-    "message": "@purple_indifferent_bot wasd",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityMention",
-        "offset": 0,
-        "length": 23
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 172,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T04:57:35+00:00",
-    "message": "Отправляю все возможные кнопки",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": {
-      "_": "ReplyInlineMarkup",
-      "rows": [
-        {
-          "_": "KeyboardButtonRow",
-          "buttons": [
-            {
-              "_": "KeyboardButtonCallback",
-              "text": "Первая кнопка!",
-              "data": [
-                98,
-                117,
-                116,
-                116,
-                111,
-                110,
-                49
-              ],
-              "requires_password": false
-            }
-          ]
-        },
-        {
-          "_": "KeyboardButtonRow",
-          "buttons": [
-            {
-              "_": "KeyboardButtonCallback",
-              "text": "Вторая кнопка",
-              "data": [
-                98,
-                116,
-                110,
-                50
-              ],
-              "requires_password": false
-            }
-          ]
-        },
-        {
-          "_": "KeyboardButtonRow",
-          "buttons": [
-            {
-              "_": "KeyboardButtonCallback",
-              "text": "кнопка 3",
-              "data": [
-                98,
-                116,
-                110,
-                51
-              ],
-              "requires_password": false
-            },
-            {
-              "_": "KeyboardButtonCallback",
-              "text": "кнопка 4",
-              "data": [
-                98,
-                116,
-                110,
-                52
-              ],
-              "requires_password": false
-            }
-          ]
-        },
-        {
-          "_": "KeyboardButtonRow",
-          "buttons": [
-            {
-              "_": "KeyboardButtonCallback",
-              "text": "кнопка 5",
-              "data": [
-                98,
-                116,
-                110,
-                53
-              ],
-              "requires_password": false
-            }
-          ]
-        },
-        {
-          "_": "KeyboardButtonRow",
-          "buttons": [
-            {
-              "_": "KeyboardButtonCallback",
-              "text": "кнопка 3",
-              "data": [
-                98,
-                116,
-                110,
-                51
-              ],
-              "requires_password": false
-            },
-            {
-              "_": "KeyboardButtonCallback",
-              "text": "кнопка 4",
-              "data": [
-                98,
-                116,
-                110,
-                52
-              ],
-              "requires_password": false
-            },
-            {
-              "_": "KeyboardButtonCallback",
-              "text": "кнопка 5",
-              "data": [
-                98,
-                116,
-                110,
-                53
-              ],
-              "requires_password": false
-            }
-          ]
-        },
-        {
-          "_": "KeyboardButtonRow",
-          "buttons": [
-            {
-              "_": "KeyboardButtonSwitchInline",
-              "text": "query=''",
-              "query": "",
-              "same_peer": false
-            },
-            {
-              "_": "KeyboardButtonSwitchInline",
-              "text": "query='qwerty'",
-              "query": "qwerty",
-              "same_peer": false
-            }
-          ]
-        },
-        {
-          "_": "KeyboardButtonRow",
-          "buttons": [
-            {
-              "_": "KeyboardButtonSwitchInline",
-              "text": "Inline в этом же чате",
-              "query": "wasd",
-              "same_peer": true
-            }
-          ]
-        },
-        {
-          "_": "KeyboardButtonRow",
-          "buttons": [
-            {
-              "_": "KeyboardButtonUrl",
-              "text": "ссылка на профиль VK",
-              "url": "https://vk.com/audios213074998"
-            }
-          ]
-        }
-      ]
-    },
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 171,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T04:57:35+00:00",
-    "message": "/2",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 0,
-        "length": 2
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 170,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T04:57:23+00:00",
-    "message": "Привет!",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 169,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T04:57:12+00:00",
-    "message": "Привет! 👋",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": {
-      "_": "MessageReplyHeader",
-      "reply_to_msg_id": 168,
-      "reply_to_scheduled": false,
-      "forum_topic": false,
-      "reply_to_peer_id": null,
-      "reply_to_top_id": null
-    },
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": null,
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 168,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T04:57:10+00:00",
-    "message": "Привет!",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": {
-      "_": "ReplyKeyboardMarkup",
-      "rows": [
-        {
-          "_": "KeyboardButtonRow",
-          "buttons": [
-            {
-              "_": "KeyboardButton",
-              "text": "Привет! 👋"
-            }
-          ]
-        }
-      ],
-      "resize": true,
-      "single_use": true,
-      "selective": false,
-      "placeholder": null
-    },
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 1,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": 169,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 167,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T04:57:10+00:00",
-    "message": "/start",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 0,
-        "length": 6
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 166,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T04:56:06+00:00",
-    "message": "Верно!",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 165,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T04:56:06+00:00",
-    "message": "/error_loh",
-    "out": true,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 1533275740
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 0,
-        "length": 10
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 1533275740
   },
   {
-    "_": "Message",
     "id": 164,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T04:55:54+00:00",
-    "message": "Ну годно))",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 163,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T04:55:45+00:00",
-    "message": "У жопоруких и не работает",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 162,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T04:55:45+00:00",
-    "message": "/error_loh",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [
-      {
-        "_": "MessageEntityBotCommand",
-        "offset": 0,
-        "length": 10
-      }
-    ],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 161,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T04:55:14+00:00",
-    "message": "Ради этого стоило учится 6 лет)",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 160,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T04:55:13+00:00",
-    "message": "Ради этого стоило учится 6 лет)",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
   },
   {
-    "_": "Message",
     "id": 159,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T04:54:59+00:00",
-    "message": "Вот это я понимаю - программирование!",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 5605337710
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 5605337710
   },
   {
-    "_": "Message",
     "id": 158,
-    "peer_id": {
-      "_": "PeerChannel",
-      "channel_id": 1624038061
-    },
-    "date": "2022-11-21T04:54:59+00:00",
-    "message": "Вот это я понимаю - программирование!",
-    "out": false,
-    "mentioned": false,
-    "media_unread": false,
-    "silent": false,
-    "post": false,
-    "from_scheduled": false,
-    "legacy": false,
-    "edit_hide": false,
-    "pinned": false,
-    "noforwards": false,
-    "from_id": {
-      "_": "PeerUser",
-      "user_id": 328789982
-    },
-    "fwd_from": null,
-    "via_bot_id": null,
-    "reply_to": null,
-    "media": null,
-    "reply_markup": null,
-    "entities": [],
-    "views": null,
-    "forwards": null,
-    "replies": {
-      "_": "MessageReplies",
-      "replies": 0,
-      "replies_pts": 327,
-      "comments": false,
-      "recent_repliers": [],
-      "channel_id": null,
-      "max_id": null,
-      "read_max_id": null
-    },
-    "edit_date": null,
-    "post_author": null,
-    "grouped_id": null,
-    "reactions": null,
-    "restriction_reason": [],
-    "ttl_period": null
+    "sender_id": 328789982
+  },
+  {
+    "id": 157,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 156,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 155,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 154,
+    "sender_id": 328789982
+  },
+  {
+    "id": 153,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 152,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 151,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 150,
+    "sender_id": 328789982
+  },
+  {
+    "id": 149,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 148,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 147,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 146,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 145,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 144,
+    "sender_id": 328789982
+  },
+  {
+    "id": 143,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 142,
+    "sender_id": 328789982
+  },
+  {
+    "id": 141,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 140,
+    "sender_id": 328789982
+  },
+  {
+    "id": 139,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 138,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 137,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 136,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 135,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 134,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 133,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 132,
+    "sender_id": 328789982
+  },
+  {
+    "id": 131,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 130,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 129,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 128,
+    "sender_id": 328789982
+  },
+  {
+    "id": 127,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 126,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 125,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 124,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 123,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 122,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 121,
+    "sender_id": 328789982
+  },
+  {
+    "id": 120,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 119,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 118,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 117,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 116,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 115,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 114,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 113,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 112,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 111,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 110,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 109,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 108,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 107,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 106,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 105,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 104,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 103,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 102,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 101,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 100,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 99,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 98,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 97,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 96,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 95,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 94,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 93,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 92,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 91,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 90,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 89,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 88,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 87,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 86,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 85,
+    "sender_id": 328789982
+  },
+  {
+    "id": 84,
+    "sender_id": 328789982
+  },
+  {
+    "id": 83,
+    "sender_id": 328789982
+  },
+  {
+    "id": 82,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 81,
+    "sender_id": 328789982
+  },
+  {
+    "id": 80,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 79,
+    "sender_id": 328789982
+  },
+  {
+    "id": 78,
+    "sender_id": 328789982
+  },
+  {
+    "id": 77,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 76,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 75,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 74,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 73,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 72,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 71,
+    "sender_id": 328789982
+  },
+  {
+    "id": 70,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 69,
+    "sender_id": 328789982
+  },
+  {
+    "id": 68,
+    "sender_id": 328789982
+  },
+  {
+    "id": 67,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 66,
+    "sender_id": 328789982
+  },
+  {
+    "id": 65,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 64,
+    "sender_id": 328789982
+  },
+  {
+    "id": 63,
+    "sender_id": 5605337710
+  },
+  {
+    "id": 62,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 61,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 60,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 59,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 58,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 57,
+    "sender_id": 328789982
+  },
+  {
+    "id": 56,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 55,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 53,
+    "sender_id": 328789982
+  },
+  {
+    "id": 47,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 46,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 45,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 44,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 43,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 42,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 41,
+    "sender_id": 5779886019
+  },
+  {
+    "id": 40,
+    "sender_id": 5779886019
+  },
+  {
+    "id": 38,
+    "sender_id": 5779886019
+  },
+  {
+    "id": 37,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 36,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 35,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 34,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 33,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 31,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 29,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 28,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 27,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 26,
+    "sender_id": 100237842
+  },
+  {
+    "id": 25,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 24,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 23,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 22,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 21,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 19,
+    "sender_id": 1233694661
+  },
+  {
+    "id": 13,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 11,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 8,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 7,
+    "sender_id": 5779886019
+  },
+  {
+    "id": 6,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 5,
+    "sender_id": 5779886019
+  },
+  {
+    "id": 4,
+    "sender_id": 1533275740
+  },
+  {
+    "id": 3,
+    "sender_id": 5779886019
+  },
+  {
+    "id": 2,
+    "sender_id": 1533275740
   }
 ]
