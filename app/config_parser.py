@@ -8,7 +8,6 @@ class TgBot:
     api_hash: str
     bot_token: str
     admin_id: int
-    admin_name: str
 
 
 @dataclass
@@ -26,6 +25,5 @@ def load_config(path: str) -> Config:
             api_hash=tg_bot['api_hash'],
             bot_token=tg_bot['bot_token'],
             admin_id=int(tg_bot['admin_id']),
-            admin_name=tg_bot['admin_name']
         )
     )

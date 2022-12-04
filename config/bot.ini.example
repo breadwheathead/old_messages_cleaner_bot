@@ -2,5 +2,5 @@
 [tg_bot]
 api_id =
 api_hash =
-username =
-phone =
+bot_token =
+admin_id =
