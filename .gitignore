@@ -3,3 +3,5 @@ config/bot.ini
 config/info.txt
 /@breadwheathead.session
 /me.session
+messages.json
+members.json
