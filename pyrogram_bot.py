@@ -1,23 +1,21 @@
 import logging
+import os
 import pyrogram
 from pyrogram import Client, filters
-from app.config_parser import load_config
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger()
 
-# config = load_config('config/bot.ini')
-# api_id = config.tg_bot.api_id
-# api_hash = config.tg_bot.api_hash
-# bot_token = config.tg_bot.bot_token
-# admin_id = config.tg_bot.admin_id
-# receiver_id = '1533275740'  # it's me
-group_id = -1001624038061
 
-# app = Client('bot', api_id, api_hash, bot_token=bot_token)
-# app = Client('bot')
-# app = Client('me', api_id, api_hash)
-bot = Client('me')
+if os.path.exists('me.session'):
+    bot = Client('me')
+    print('есть')
+else:
+    from app.config_parser import load_config
+    config = load_config('config/bot.ini')
+    api_id = config.tg_bot.api_id
+    api_hash = config.tg_bot.api_hash
+    bot = Client('me', api_id, api_hash)
 
 
 async def get_members(group_id) -> set:
